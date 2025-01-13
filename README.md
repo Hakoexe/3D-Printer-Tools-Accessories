@@ -41,3 +41,11 @@ Its a deburring tool - its great. I will leave a link to a file for storring it 
 https://a.co/d/55yct5V
 ```
 I keep my printer in the garage, and during the summer, it can get quite humid. My printer is inside the canvas case I’ve linked here, which provides some protection. To help mitigate the humidity, I purchased these items. While they should help, a proper dehumidifier chamber for both filament and the printing environment would be the ideal solution. For now, this setup works for me. Additionally, I have a window AC unit in the garage, which also helps manage the humidity.
+
+### Enclosure Tent
+```bash
+https://a.co/d/eBpMGLM
+```
+I originally used this for my Ender 3 Pro V3 KE, but I no longer have that printer. It also fits my Bambu Labs A1 printer perfectly. I have my printer placed on a 12x12 paver inside the tent, which I’ve found helps with both vibrations and stability. The paver adds mass to the setup, which dampens vibrations caused by the printer’s moving parts and provides a stable, level surface. This can also help reduce noise and improve print quality. Picked the paver up at Home depot.
+[Printer Set up 1](https://github.com/user-attachments/assets/bcfb9c75-76da-4076-9267-10181c0e9a2e)
+[Printer Set up 2](https://github.com/user-attachments/assets/4a1538ea-0e0d-4e98-b6d5-01607ea7e636)
