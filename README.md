@@ -32,9 +32,10 @@ I’d rate this product nearly a 10/10. Overall, it does exactly what it promise
 
 Product Link:
 ```bash
-https://a.co/d/8DYd3H0
+https://a.co/d/0yBWXKR
+https://www.printables.com/model/551996-deburring-tool-case-150mm-afa-tooling-rugged-box-s
 ```
-Its a deburring tool - its great. I will leave a link to a file for storring it once ive printed one. But right now I have not done that.
+Its a deburring tool - its great. ~~I will leave a link to a file for storring it once ive printed one. But right now I have not done that.~~ Got around to printing the tool case for it and i love it. Best one so far! I used the screws from HomeDepot and just got some socket ones, same length as in the site. 
 
 ### 500g x 2 Packs Rechargeable Desiccant 
 ```bash
